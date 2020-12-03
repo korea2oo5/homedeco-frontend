@@ -4,6 +4,10 @@ import LoginPage from "./components/LoginPage";
 import RegisterPage from "./components/RegisterPage";
 
 console.log("test1241");
+
+console.log("여기추가");
+
+console.log("여기 하나 더 추가");
 const App = () => {
   return (
     <>
