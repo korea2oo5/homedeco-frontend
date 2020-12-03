@@ -5,6 +5,8 @@ import RegisterPage from "./components/RegisterPage";
 
 console.log("test1241");
 
+console.log("test1241");
+
 const App = () => {
   return (
     <>
