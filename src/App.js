@@ -3,6 +3,7 @@ import { Route } from "react-router-dom";
 import LoginPage from "./components/LoginPage";
 import RegisterPage from "./components/RegisterPage";
 
+console.log("test");
 const App = () => {
   return (
     <>
